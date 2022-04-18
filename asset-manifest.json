@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Doctor-task/static/css/main.070ed4aa.css",
-    "main.js": "/Doctor-task/static/js/main.b048fe13.js",
-    "static/js/787.9f29a76c.chunk.js": "/Doctor-task/static/js/787.9f29a76c.chunk.js",
-    "static/media/doctor.jpg": "/Doctor-task/static/media/doctor.f7c0258d44f769532e44.jpg",
-    "index.html": "/Doctor-task/index.html",
-    "main.070ed4aa.css.map": "/Doctor-task/static/css/main.070ed4aa.css.map",
-    "main.b048fe13.js.map": "/Doctor-task/static/js/main.b048fe13.js.map",
-    "787.9f29a76c.chunk.js.map": "/Doctor-task/static/js/787.9f29a76c.chunk.js.map"
+    "main.css": "/Doctor-Task/static/css/main.13442f68.css",
+    "main.js": "/Doctor-Task/static/js/main.fc093f5a.js",
+    "static/js/787.9f29a76c.chunk.js": "/Doctor-Task/static/js/787.9f29a76c.chunk.js",
+    "static/media/doctor.jpg": "/Doctor-Task/static/media/doctor.f7c0258d44f769532e44.jpg",
+    "index.html": "/Doctor-Task/index.html",
+    "main.13442f68.css.map": "/Doctor-Task/static/css/main.13442f68.css.map",
+    "main.fc093f5a.js.map": "/Doctor-Task/static/js/main.fc093f5a.js.map",
+    "787.9f29a76c.chunk.js.map": "/Doctor-Task/static/js/787.9f29a76c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.070ed4aa.css",
-    "static/js/main.b048fe13.js"
+    "static/css/main.13442f68.css",
+    "static/js/main.fc093f5a.js"
   ]
 }
